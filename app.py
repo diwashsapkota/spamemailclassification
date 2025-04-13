@@ -17,7 +17,8 @@ email_input = st.text_area("Email Message", height=200)
 model_option = st.selectbox("Choose a Classifier", [
     "logistic_regression_model.pkl",
     "naive_bayes_model.pkl",
-    "random_forest_model.pkl"
+    "random_forest_model.pkl",
+    "support_vector_classifier_model.pkl"
 ])
 
 if st.button("Classify"):
