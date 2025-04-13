@@ -6,4 +6,4 @@ This Streamlit app allows you to compare three spam email classification models:
 - Random Forest
 
 
-![Click Here to Access the App](https://spammailclassification.streamlit.app)
+[Click Here to Access the App](https://spammailclassification.streamlit.app)
